@@ -1,5 +1,5 @@
 # FP projects for the first semester of UBB CS
-## various projects
+## + different python projects as an exercise for the exam
 - console interface
 - layered arhitecture
 - class organised
