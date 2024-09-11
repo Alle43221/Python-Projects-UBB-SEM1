@@ -22,4 +22,5 @@
 <h4>Proiect Lab7-10.zip</h4>
 <ul>
   <li><a href=https://www.cs.ubbcluj.ro/~istvanc/fp/lab/Lab7-9.pdf>Lab 7-9 (exercise 4)</a></li>
+  <li><a href=https://www.cs.ubbcluj.ro/~istvanc/fp/lab/Lab10.pdf>Lab 10</a></li>
 </ul> 
