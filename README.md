@@ -1,6 +1,6 @@
 # Fundamentals of Programming projects for the first semester of UBB CS
 
-+ different python projects as exercises for the exam
+### + different python projects as exercises for the exam
 - console interface
 - layered architecture
 - class organised
