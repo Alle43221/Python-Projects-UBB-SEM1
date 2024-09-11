@@ -35,3 +35,12 @@
 <ul>
   <li><a href=https://www.cs.ubbcluj.ro/~istvanc/fp/lab/Lab13.pdf>Lab 13 (exercise 6)</a></li>
 </ul> 
+
+<h4>Antrenor-de-baschet.zip</h4>
+
+<h4>AgentieImobiliara.zip</h4>
+
+<h4>SpeciesDiscovery.zip</h4>
+
+<h4>simularePractic.zip</h4>
+
