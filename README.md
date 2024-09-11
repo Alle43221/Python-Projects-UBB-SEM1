@@ -19,8 +19,18 @@
   <li><a href=https://www.cs.ubbcluj.ro/~istvanc/fp/lab/Lab4-6.pdf>Lab 4-6 (exercise 6)</a></li>
 </ul> 
 
-<h4>Proiect Lab7-10.zip</h4>
+<h4>Proiect Lab7-10.zip, LibraryManagement.zip</h4>
 <ul>
   <li><a href=https://www.cs.ubbcluj.ro/~istvanc/fp/lab/Lab7-9.pdf>Lab 7-9 (exercise 4)</a></li>
   <li><a href=https://www.cs.ubbcluj.ro/~istvanc/fp/lab/Lab10.pdf>Lab 10</a></li>
+</ul> 
+
+<h4>lab12.zip, LibraryManagement.zip</h4>
+<ul>
+  <li><a href=https://www.cs.ubbcluj.ro/~istvanc/fp/lab/Lab12.pdf>Lab 12(exercise 1)</a></li>
+</ul> 
+
+<h4>lab13.zip</h4>
+<ul>
+  <li><a href=https://www.cs.ubbcluj.ro/~istvanc/fp/lab/Lab13.pdf>Lab 13(exercise 6)</a></li>
 </ul> 
