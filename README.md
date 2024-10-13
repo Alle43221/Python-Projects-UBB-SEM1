@@ -37,6 +37,8 @@
 </ul> 
 
 <h4>Antrenor-de-baschet.zip</h4>
+![6](https://github.com/user-attachments/assets/398586fe-15a3-42e9-b298-6952d80d680f)
+
 
 <h4>AgentieImobiliara.zip</h4>
 
