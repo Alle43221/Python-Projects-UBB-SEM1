@@ -38,7 +38,8 @@
 
 <h4>Antrenor-de-baschet.zip</h4>
 
-![6](https://github.com/user-attachments/assets/fa8333cb-177c-42bd-a8bb-f528a581e2c9)
+![subiect-practic-4](https://github.com/user-attachments/assets/076d0f49-e12f-4edf-9472-f329702a73de)
+
 
 
 
