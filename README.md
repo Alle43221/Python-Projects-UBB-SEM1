@@ -40,9 +40,9 @@
 
 ![subiect-practic-4](https://github.com/user-attachments/assets/076d0f49-e12f-4edf-9472-f329702a73de)
 
+<h4>tractoare.zip</h4>
 
-
-
+![Untitled](https://github.com/user-attachments/assets/fc0115b7-ca8f-4e93-bc04-73ff2992355b)
 
 <h4>AgentieImobiliara.zip</h4>
 
